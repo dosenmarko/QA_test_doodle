@@ -1,3 +1,5 @@
+Prerequisites:
+https://webdriver.io/docs/gettingstarted
 
 ## Commands
 
